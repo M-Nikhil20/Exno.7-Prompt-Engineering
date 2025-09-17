@@ -3,13 +3,11 @@
 ## Date: 17-09-2025
 ## Register No: 212222230095
 
----
 
 ## Aim:
 
 To develop a **prompt-based application** tailored to personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
----
 
 ## Algorithm:
 
